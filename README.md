@@ -1,2 +1,2 @@
-# countdown
-countdown using c#.
+# countdown timer
+countdown timer using c#.
